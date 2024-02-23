@@ -1,0 +1,40 @@
+/*selector{
+	property: value;
+}*/
+body{
+	background-image: url(proud.avif);
+	background-size: cover;
+}
+
+h3:hover {
+	text-align: center;
+	color: firebrick;
+	font-family: algerian;
+	border-top:4px black ;
+	border-bottom:2px black ;
+	border-right:2px yellowgreen ;
+	border-left:2px greenyellow ;
+	
+}
+
+p {
+	font-style: oblique;
+	font-family: algerian;
+	line-height: 20px;
+	text-align: right;
+	color: orangered;
+	border: 5px groove black;
+}
+
+img{
+	float: left;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+}
+
+li{
+	display: inline-grid;
+}
